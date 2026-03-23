@@ -50,7 +50,7 @@ public/
         ├── alien1.png        # Heatblast
         ├── alien2.png        # Wildmutt
         ├── alien3.png        # Diamondhead
-        └── ...up to alien20.png
+        └── ...up to alien60.png
 ```
 
 No code changes needed — images load automatically by alien ID.
@@ -63,7 +63,7 @@ No code changes needed — images load automatically by alien ID.
 
 ## Alien Data
 
-All 20 aliens are defined in `src/data/aliens.js`. Each entry follows this shape:
+All 60 aliens are defined in `src/data/aliens.js`. Each entry follows this shape:
 
 ```js
 {
